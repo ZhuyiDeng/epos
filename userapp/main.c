@@ -34,12 +34,7 @@ void main(void *pv)
             task_getid(), pv);
 
     //TODO: Your code goes here
-    // time_t   t1, t2;
-    // t1 = time(&t2);
-    // t1 = sys_time();
-    // prints("%d",t1);
 
-    printf("?????");
 
     while(1)
         ;
